@@ -1,0 +1,2 @@
+include:
+  - .CentOS6
